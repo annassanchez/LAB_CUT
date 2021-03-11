@@ -1,0 +1,51 @@
+{
+ "name": "clustering",
+ "children": [
+  {
+   "name": "0",
+   "children": [
+    
+      {"name": "Residencial", "value": 2446},
+      {"name": "Residencial: Vivienda Colectiva", "value": 12252},
+      {"name": "Residencial: Vivienda Unifamiliar", "value": 2432},
+      {"name": "Residencial: Vivienda Unifamilair", "value": 308}
+     ]
+    },
+
+    {
+     "name": "1",
+     "children": [
+      {"name": "Dotacional: Servicios Colectivos", "value": 264},
+      {"name": "Dotacional: Servicios Públicos", "value": 561},
+      {"name": "Dotacional: Transporte", "value": 363},
+      {"name": "SpanningTree", "value": 10042}
+     ]
+    },
+    {
+     "name": "2",
+     "children": [
+      {"name": "Dotacional: Deportivo", "value": 473},
+      {"name": "Dotacional: Equipamiento", "value": 2916},
+      {"name": "Dotacional: Infraestructura", "value": 1072},
+	  {"name": "Terciario", "value": 250},
+	  {"name": "Terciario: Comercial", "value": 91},
+      {"name": "Terciario: Oficinas", "value": 152}
+     ]
+    },
+	    {
+     "name": "3",
+     "children": [
+      {"name": "Industrial", "value": 1068},
+      {"name": "No determinado", "value": 215}
+     ]
+    },
+	    {
+     "name": "4",
+     "children": [
+      {"name": "Dotacional", "value": 473},
+      {"name": "Dotacional: Zonas Verdes", "value": 4170}
+     ]
+    }
+   ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "name": "@annassanchez/radial-dendrogram",
+  "main": "2f9d730b0bfc0130@204.js",
+  "version": "204.0.0",
+  "homepage": "https://observablehq.com/@annassanchez/radial-dendrogram",
+  "author": {
+    "name": "anna s",
+    "url": "https://observablehq.com/@annassanchez"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
