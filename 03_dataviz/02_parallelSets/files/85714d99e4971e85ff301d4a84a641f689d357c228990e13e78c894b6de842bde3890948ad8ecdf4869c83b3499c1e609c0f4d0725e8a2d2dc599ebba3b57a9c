@@ -1,0 +1,19 @@
+Usos,class_Uso,Cuenta de Usos
+Dotacional,4,250
+Dotacional: Deportivo,2,473
+Dotacional: Equipamiento,2,2916
+Dotacional: Infraestructura,2,1072
+Dotacional: Servicios Colectivos,1,264
+Dotacional: Servicios Públicos,1,561
+Dotacional: Transporte,1,363
+Dotacional: Vía pública,1,10042
+Dotacional: Zonas Verdes,4,4170
+Industrial,3,1068
+No determinado,3,215
+Residencial,0,2446
+Residencial: Vivienda Colectiva,0,12252
+Residencial: Vivienda Unifamilair,0,308
+Residencial: Vivienda Unifamiliar,0,2432
+Terciario,2,250
+Terciario: Comercial,2,91
+Terciario: Oficinas,2,152

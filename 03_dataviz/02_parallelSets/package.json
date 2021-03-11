@@ -1,0 +1,14 @@
+{
+  "name": "@annassanchez/parallel-sets-1-clasificacion-y-usos-del-suelo",
+  "main": "792cb1c2654e7dfc@308.js",
+  "version": "308.0.0",
+  "homepage": "https://observablehq.com/@annassanchez/parallel-sets-1-clasificacion-y-usos-del-suelo",
+  "author": {
+    "name": "anna s",
+    "url": "https://observablehq.com/@annassanchez"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
